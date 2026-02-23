@@ -10,7 +10,7 @@ int main(){
     age1 = 39;
 
     cout << "halo dunia" << endl;
-    cout << 99 << endl;
+    cout << 20 << endl;
     cout << age;
     cout << age1;
 }
